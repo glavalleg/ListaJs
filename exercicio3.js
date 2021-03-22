@@ -1,6 +1,3 @@
-/* Faça um programa que entre com cinco números e imprima o
-quadrado de cada número (Looping).
- */
 
 for( let i = 0;i<5;i++){
   number = prompt("Entre com um número",0);

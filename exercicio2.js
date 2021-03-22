@@ -1,7 +1,4 @@
-/* Solicite o usuário a 
-inserção de notas via prompt e calcule a 
-média de diversas notas digitadas em um input, 
-separados por vírgula, pelo usuário */
+
 
 function calcularMedia(notas_string) {
   //console.log(notas_string)
